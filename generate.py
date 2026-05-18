@@ -93,6 +93,7 @@ for item in items:
 lines = ["# Open Source Contributions", ""]
 
 for org, values in orgs.items():
+    values.sort(key=lambda x: x["repo"].lower())
     lines.append(f"## {org} <!-- PRs: {len(values)} -->")
     lines.append("")
     lines.append("| Repo | PR Title | Status |")

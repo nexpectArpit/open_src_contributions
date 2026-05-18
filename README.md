@@ -13,10 +13,10 @@
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [implement standard Reactive Forms validation in DataSyncLoginComponent](https://github.com/PSMRI/MMU-UI/pull/350) | ![Open](https://img.shields.io/badge/Open-green) |
-| [MMU-API](https://github.com/PSMRI/MMU-API/pulls?q=author%3AnexpectArpit) | [update README and sync package version with pom](https://github.com/PSMRI/MMU-API/pull/169) | ![Open](https://img.shields.io/badge/Open-green) |
-| [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [fix port number and environment template filename in README](https://github.com/PSMRI/MMU-UI/pull/338) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 | [Helpline104-UI](https://github.com/PSMRI/Helpline104-UI/pulls?q=author%3AnexpectArpit) | [docs: align license metadata and platform port with AMRIT standards](https://github.com/PSMRI/Helpline104-UI/pull/65) | ![Open](https://img.shields.io/badge/Open-green) |
+| [MMU-API](https://github.com/PSMRI/MMU-API/pulls?q=author%3AnexpectArpit) | [update README and sync package version with pom](https://github.com/PSMRI/MMU-API/pull/169) | ![Open](https://img.shields.io/badge/Open-green) |
+| [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [implement standard Reactive Forms validation in DataSyncLoginComponent](https://github.com/PSMRI/MMU-UI/pull/350) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [fix port number and environment template filename in README](https://github.com/PSMRI/MMU-UI/pull/338) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 
 ---
 
@@ -50,8 +50,8 @@
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [contribution](https://github.com/checkstyle/contribution/pulls?q=author%3AnexpectArpit) | [doc: automate author wrapping and punctuation normalization in releas…](https://github.com/checkstyle/contribution/pull/1058) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 | [checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=author%3AnexpectArpit) | [doc: wrap long lines in release notes](https://github.com/checkstyle/checkstyle/pull/19626) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+| [contribution](https://github.com/checkstyle/contribution/pulls?q=author%3AnexpectArpit) | [doc: automate author wrapping and punctuation normalization in releas…](https://github.com/checkstyle/contribution/pull/1058) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 
 ---
 
