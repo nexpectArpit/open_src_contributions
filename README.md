@@ -1,5 +1,15 @@
 # Open Source Contributions
 
+## Kuadrant <!-- PRs: 3 -->
+
+| Repo | PR Title | Status |
+|------|----------|--------|
+| [kuadrant-console-plugin](https://github.com/Kuadrant/kuadrant-console-plugin/pulls?q=author%3AnexpectArpit) | [validate API key name uniqueness and length](https://github.com/Kuadrant/kuadrant-console-plugin/pull/481) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [resolve TLSPolicy issuer validation bypass and action button layout distortion](https://github.com/Kuadrant/kuadrant-console-plugin/pull/476) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [fix typos in README.md and CLAUDE.md](https://github.com/Kuadrant/kuadrant-console-plugin/pull/467) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+
+---
+
 ## DalgoT4D <!-- PRs: 2 -->
 
 | Repo | PR Title | Status |
