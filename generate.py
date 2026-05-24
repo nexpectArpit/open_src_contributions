@@ -5,8 +5,9 @@ import requests
 
 import os
 
-README_FILE = "README.md"
-CONFIG_FILE = "config.json"
+SCRIPT_DIR = Path(__file__).parent.resolve()
+README_FILE = SCRIPT_DIR / "README.md"
+CONFIG_FILE = SCRIPT_DIR / "config.json"
 
 with open(CONFIG_FILE, "r") as f:
     config = json.load(f)
