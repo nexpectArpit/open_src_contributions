@@ -6,7 +6,7 @@ on:
       - 'config.json'
 
   schedule:
-    - cron: "0 0 * * 0"
+    - cron: "2 10 * * 0"  # Every Sunday at 3:32 PM IST (10:02 AM UTC)
 
   workflow_dispatch:
 
