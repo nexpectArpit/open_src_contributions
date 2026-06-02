@@ -88,3 +88,33 @@
 | [openlibrary](https://github.com/internetarchive/openlibrary/pulls?q=author%3AnexpectArpit) | [Feature/trending badge book pages](https://github.com/internetarchive/openlibrary/pull/11674) | ![Open](https://img.shields.io/badge/Open-green) |
 
 ---
+
+## GitLab <!-- PRs: 23 -->
+
+| Repo | PR Title | Status |
+|------|----------|--------|
+| [gitlab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=created_asc&state=merged&author_username=nexpectArpit&first_page_size=100) | [Add description metadata to epic_issues.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232544) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Add description metadata to dependency_list_export.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232543) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Standardize curl command in downstream_pipelines.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232535) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Standardize curl command in job_artifacts.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232534) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Resolve RSpec/UndescriptiveLiteralsDescription in MR base service spec](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232517) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Resolve RSpec/LeakyConstantDeclaration in various specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232511) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Resolve RSpec/SpecFilePathSuffix by renaming specialized specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232509) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Resolve Gitlab/RSpec/AvoidCreateDefaultOrganization in Organization specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232503) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Resolve GraphQL/ResolverMethodLength in StageType](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232495) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Resolve GraphQL/ArgumentUniqueness in MergeRequestsResolver](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232491) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Resolve Gitlab/TokenWithoutPrefix offenses in ApplicationSetting](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232460) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Fix vue/v-on-event-hyphenation offenses in boards components](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232432) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Fix/pages lowercase redirect loop](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232431) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Standardize curl examples in doc/api/users.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232256) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Standardize curl examples in doc/api/pipelines.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232211) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Standardize curl examples in doc/api/job_artifacts.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232201) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Standardize curl examples in doc/api/repository_submodules.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232181) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Add quick actions for setting and removing start date](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232051) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Resolve Lint/NoReturnInBeginEndBlocks offenses](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232039) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Resolve Cop/IgnoredColumns offenses in sliding_list_strategy_spec.rb](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232028) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Resolve Database/RescueStatementTimeout and Database/RescueQueryCanceled offenses](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232027) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Add description metadata to HashiCorp Vault documentation](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232024) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Add description metadata to CI/CD job token docs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232023) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+
+---

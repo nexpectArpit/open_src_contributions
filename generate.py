@@ -12,9 +12,79 @@ CONFIG_FILE = SCRIPT_DIR / "config.json"
 with open(CONFIG_FILE, "r") as f:
     config = json.load(f)
 
-GITHUB_USERNAME = config["github_username"]
-OPEN_SOURCE_ORGS = set(config["open_source_orgs"])
+GITHUB_USERNAME = config.get("github_username")
+GITLAB_USERNAME = config.get("gitlab_username")
+OPEN_SOURCE_ORGS = set(config.get("github_orgs", config.get("open_source_orgs", [])))
+GITLAB_ORGS = set(config.get("gitlab_orgs", []))
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
+GITLAB_TOKEN = os.environ.get("GITLAB_TOKEN")
+
+def fetch_gitlab_mrs(username, group):
+    page = 1
+    results = []
+    headers = {}
+    if GITLAB_TOKEN:
+        headers["PRIVATE-TOKEN"] = GITLAB_TOKEN
+
+    while True:
+        url = f"https://gitlab.com/api/v4/groups/{group}/merge_requests?author_username={username}&per_page=100&page={page}"
+        response = requests.get(url, headers=headers)
+        if response.status_code != 200:
+            break
+        data = response.json()
+        if not data:
+            break
+        results.extend(data)
+        page += 1
+
+    return results
+
+def parse_gitlab_entry(entry):
+    url = entry.get("web_url")
+    if not url:
+        return None
+        
+    parts = url.split("/")
+    
+    try:
+        dash_idx = parts.index("-")
+        repo = parts[dash_idx - 1]
+    except ValueError:
+        if len(parts) > 4:
+            repo = parts[4]
+        else:
+            repo = "unknown"
+            
+    if len(parts) > 3:
+        org = parts[3]
+    else:
+        return None
+    
+    if org not in GITLAB_ORGS:
+        return None
+        
+    title = entry["title"]
+    state = entry["state"]
+    
+    if state == "merged":
+        status = "![Merged](https://img.shields.io/badge/Merged-purple)"
+    elif state == "opened":
+        status = "![Open](https://img.shields.io/badge/Open-green)"
+    else:
+        return None
+        
+    project_url = url.split("/-/")[0]
+    repo_link = f"{project_url}/-/merge_requests/?sort=created_asc&state=merged&author_username={GITLAB_USERNAME}&first_page_size=100"
+    
+    return {
+        "platform": "GitLab",
+        "org": "GitLab",
+        "repo": repo,
+        "title": title,
+        "status": status,
+        "url": url,
+        "repo_link": repo_link,
+    }
 
 def fetch_all_prs():
     page = 1
@@ -75,17 +145,27 @@ def parse_entry(entry):
     }
 
 
-all_prs = fetch_all_prs()
-print(f"Total PRs fetched from GitHub search API: {len(all_prs)}")
-
 items = []
-for entry in all_prs:
-    item = parse_entry(entry)
-    if not item:
-        continue
-    if item["status"] == "Closed ❌":
-        continue
-    items.append(item)
+
+if GITHUB_USERNAME and OPEN_SOURCE_ORGS:
+    all_prs = fetch_all_prs()
+    print(f"Total PRs fetched from GitHub search API: {len(all_prs)}")
+    for entry in all_prs:
+        item = parse_entry(entry)
+        if not item:
+            continue
+        if item["status"] == "Closed ❌":
+            continue
+        items.append(item)
+
+if GITLAB_USERNAME and GITLAB_ORGS:
+    for group in GITLAB_ORGS:
+        mrs = fetch_gitlab_mrs(GITLAB_USERNAME, group)
+        print(f"Total MRs fetched from GitLab group {group}: {len(mrs)}")
+        for entry in mrs:
+            item = parse_gitlab_entry(entry)
+            if item:
+                items.append(item)
 
 orgs = defaultdict(list)
 for item in items:
