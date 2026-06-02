@@ -1,7 +1,8 @@
 {
     "github_username": "nexpectArpit",
+    "gitlab_username": "nexpectArpit",
 
-    "open_source_orgs": [
+    "github_orgs": [
         "WikiEducationFoundation",
         "DalgoT4D",
         "PSMRI",
@@ -10,5 +11,8 @@
         "Open-Book-Genome-Project",
         "GetBindu",
         "Kuadrant"
+    ],
+    "gitlab_orgs": [
+        "gitlab-org"
     ]
 }
