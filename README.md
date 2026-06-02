@@ -93,7 +93,7 @@
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [gitlab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=created_asc&state=merged&author_username=nexpectArpit&first_page_size=100) | [Add description metadata to epic_issues.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232544) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+| [gitlab](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/?sort=created_asc&state=merged&author_username=nexpectArpit) | [Add description metadata to epic_issues.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232544) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Add description metadata to dependency_list_export.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232543) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Standardize curl command in downstream_pipelines.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232535) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Standardize curl command in job_artifacts.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232534) | ![Merged](https://img.shields.io/badge/Merged-purple) |

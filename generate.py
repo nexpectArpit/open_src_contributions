@@ -74,7 +74,7 @@ def parse_gitlab_entry(entry):
         return None
         
     project_url = url.split("/-/")[0]
-    repo_link = f"{project_url}/-/merge_requests/?sort=created_asc&state=merged&author_username={GITLAB_USERNAME}&first_page_size=100"
+    repo_link = f"{project_url}/-/merge_requests/?sort=created_asc&state=merged&author_username={GITLAB_USERNAME}"
     
     return {
         "platform": "GitLab",
