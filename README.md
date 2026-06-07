@@ -1,40 +1,12 @@
 # Open Source Contributions
 
-## Kuadrant <!-- PRs: 3 -->
+## WikiEducationFoundation <!-- PRs: 21 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [kuadrant-console-plugin](https://github.com/Kuadrant/kuadrant-console-plugin/pulls?q=author%3AnexpectArpit) | [validate API key name uniqueness and length](https://github.com/Kuadrant/kuadrant-console-plugin/pull/481) | ![Open](https://img.shields.io/badge/Open-green) |
-|  | [resolve TLSPolicy issuer validation bypass and action button layout distortion](https://github.com/Kuadrant/kuadrant-console-plugin/pull/476) | ![Open](https://img.shields.io/badge/Open-green) |
-|  | [fix typos in README.md and CLAUDE.md](https://github.com/Kuadrant/kuadrant-console-plugin/pull/467) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-
----
-
-## DalgoT4D <!-- PRs: 2 -->
-
-| Repo | PR Title | Status |
-|------|----------|--------|
-| [DDP_backend](https://github.com/DalgoT4D/DDP_backend/pulls?q=author%3AnexpectArpit) | [remediate infrastructure technical debt for #867](https://github.com/DalgoT4D/DDP_backend/pull/1354) | ![Open](https://img.shields.io/badge/Open-green) |
-| [webapp_v2](https://github.com/DalgoT4D/webapp_v2/pulls?q=author%3AnexpectArpit) | [adding info icon with tooltip to explain pipeline locking](https://github.com/DalgoT4D/webapp_v2/pull/294) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-
----
-
-## PSMRI <!-- PRs: 4 -->
-
-| Repo | PR Title | Status |
-|------|----------|--------|
-| [Helpline104-UI](https://github.com/PSMRI/Helpline104-UI/pulls?q=author%3AnexpectArpit) | [docs: align license metadata and platform port with AMRIT standards](https://github.com/PSMRI/Helpline104-UI/pull/65) | ![Open](https://img.shields.io/badge/Open-green) |
-| [MMU-API](https://github.com/PSMRI/MMU-API/pulls?q=author%3AnexpectArpit) | [update README and sync package version with pom](https://github.com/PSMRI/MMU-API/pull/169) | ![Open](https://img.shields.io/badge/Open-green) |
-| [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [implement standard Reactive Forms validation in DataSyncLoginComponent](https://github.com/PSMRI/MMU-UI/pull/350) | ![Open](https://img.shields.io/badge/Open-green) |
-|  | [fix port number and environment template filename in README](https://github.com/PSMRI/MMU-UI/pull/338) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-
----
-
-## WikiEducationFoundation <!-- PRs: 19 -->
-
-| Repo | PR Title | Status |
-|------|----------|--------|
-| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Enabled RuboCop rules UnfreezeString, CompactBlank, RedundantCurrentDirectory, SpaceInsideHashLiteralBraces](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6811) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Fix text overflow in Milestones sidebar and Timeline blocks](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6891) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [ Fix glitches while copying course from another server](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6890) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Enabled RuboCop rules UnfreezeString, CompactBlank, RedundantCurrentDirectory, SpaceInsideHashLiteralBraces](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6811) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Implementing sticky privacy notice banner on Activity tab](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6802) | ![Open](https://img.shields.io/badge/Open-green) |
 |  | [Enable RuboCop rules: HashEach, YodaCondition, ZeroLength, spacing](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6799) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Enable RuboCop rules  and fix offenses](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6794) | ![Merged](https://img.shields.io/badge/Merged-purple) |
@@ -53,6 +25,36 @@
 |  | [Redesign /usage page with improved layout and interactive features](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6660) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Fix tooltip icons mobile responsive](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6656) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Update Article Views documentation to reflect new calculation method](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6643) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+
+---
+
+## Kuadrant <!-- PRs: 4 -->
+
+| Repo | PR Title | Status |
+|------|----------|--------|
+| [kuadrant-console-plugin](https://github.com/Kuadrant/kuadrant-console-plugin/pulls?q=author%3AnexpectArpit) | [unify build workflows and add quay.expires-after label to container images](https://github.com/Kuadrant/kuadrant-console-plugin/pull/525) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [validate API key name uniqueness and length](https://github.com/Kuadrant/kuadrant-console-plugin/pull/481) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [resolve TLSPolicy issuer validation bypass and action button layout distortion](https://github.com/Kuadrant/kuadrant-console-plugin/pull/476) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [fix typos in README.md and CLAUDE.md](https://github.com/Kuadrant/kuadrant-console-plugin/pull/467) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+
+---
+
+## PSMRI <!-- PRs: 4 -->
+
+| Repo | PR Title | Status |
+|------|----------|--------|
+| [Helpline104-UI](https://github.com/PSMRI/Helpline104-UI/pulls?q=author%3AnexpectArpit) | [docs: align license metadata and platform port with AMRIT standards](https://github.com/PSMRI/Helpline104-UI/pull/65) | ![Open](https://img.shields.io/badge/Open-green) |
+| [MMU-API](https://github.com/PSMRI/MMU-API/pulls?q=author%3AnexpectArpit) | [update README and sync package version with pom](https://github.com/PSMRI/MMU-API/pull/169) | ![Open](https://img.shields.io/badge/Open-green) |
+| [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [implement standard Reactive Forms validation in DataSyncLoginComponent](https://github.com/PSMRI/MMU-UI/pull/350) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [fix port number and environment template filename in README](https://github.com/PSMRI/MMU-UI/pull/338) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+
+---
+
+## DalgoT4D <!-- PRs: 1 -->
+
+| Repo | PR Title | Status |
+|------|----------|--------|
+| [webapp_v2](https://github.com/DalgoT4D/webapp_v2/pulls?q=author%3AnexpectArpit) | [adding info icon with tooltip to explain pipeline locking](https://github.com/DalgoT4D/webapp_v2/pull/294) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 
 ---
 
