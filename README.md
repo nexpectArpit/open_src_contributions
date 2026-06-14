@@ -7,7 +7,7 @@
 | [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Fix text overflow in Milestones sidebar and Timeline blocks](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6891) | ![Open](https://img.shields.io/badge/Open-green) |
 |  | [ Fix glitches while copying course from another server](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6890) | ![Open](https://img.shields.io/badge/Open-green) |
 |  | [Enabled RuboCop rules UnfreezeString, CompactBlank, RedundantCurrentDirectory, SpaceInsideHashLiteralBraces](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6811) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-|  | [Implementing sticky privacy notice banner on Activity tab](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6802) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Implementing sticky privacy notice banner on Activity tab](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6802) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Enable RuboCop rules: HashEach, YodaCondition, ZeroLength, spacing](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6799) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Enable RuboCop rules  and fix offenses](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6794) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Support tracking non-Main content namespaces across Wiki projects](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6785) | ![Open](https://img.shields.io/badge/Open-green) |
@@ -91,7 +91,7 @@
 
 ---
 
-## GitLab <!-- PRs: 23 -->
+## GitLab <!-- PRs: 26 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
@@ -118,5 +118,8 @@
 |  | [Resolve Database/RescueStatementTimeout and Database/RescueQueryCanceled offenses](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232027) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Add description metadata to HashiCorp Vault documentation](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232024) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Add description metadata to CI/CD job token docs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232023) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+| [knowledge-graph](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/?sort=created_asc&state=merged&author_username=nexpectArpit) | [feat(orbit-local): scope orbit schema output by positional table names](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/1680) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [docs: add text-indexed properties table to query language reference](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/1664) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [docs: remove collect from aggregation functions table](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/1653) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 
 ---
