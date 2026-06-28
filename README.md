@@ -1,11 +1,12 @@
 # Open Source Contributions
 
-## WikiEducationFoundation <!-- PRs: 21 -->
+## WikiEducationFoundation <!-- PRs: 22 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Fix text overflow in Milestones sidebar and Timeline blocks](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6891) | ![Open](https://img.shields.io/badge/Open-green) |
-|  | [ Fix glitches while copying course from another server](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6890) | ![Open](https://img.shields.io/badge/Open-green) |
+| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Update outdated LiftWing namespace comment in Replica](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6914) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [Fix text overflow in Milestones sidebar and Timeline blocks](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6891) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [ Fix glitches while copying course from another server](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6890) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Enabled RuboCop rules UnfreezeString, CompactBlank, RedundantCurrentDirectory, SpaceInsideHashLiteralBraces](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6811) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Implementing sticky privacy notice banner on Activity tab](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6802) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Enable RuboCop rules: HashEach, YodaCondition, ZeroLength, spacing](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6799) | ![Merged](https://img.shields.io/badge/Merged-purple) |
@@ -91,7 +92,7 @@
 
 ---
 
-## GitLab <!-- PRs: 26 -->
+## GitLab <!-- PRs: 24 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
@@ -99,14 +100,12 @@
 |  | [Add description metadata to dependency_list_export.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232543) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Standardize curl command in downstream_pipelines.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232535) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Standardize curl command in job_artifacts.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232534) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-|  | [Resolve RSpec/UndescriptiveLiteralsDescription in MR base service spec](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232517) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Resolve RSpec/UndescriptiveLiteralsDescription in MR base service spec](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232517) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Resolve RSpec/LeakyConstantDeclaration in various specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232511) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-|  | [Resolve RSpec/SpecFilePathSuffix by renaming specialized specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232509) | ![Open](https://img.shields.io/badge/Open-green) |
 |  | [Resolve Gitlab/RSpec/AvoidCreateDefaultOrganization in Organization specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232503) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Resolve GraphQL/ResolverMethodLength in StageType](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232495) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Resolve GraphQL/ArgumentUniqueness in MergeRequestsResolver](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232491) | ![Open](https://img.shields.io/badge/Open-green) |
-|  | [Resolve Gitlab/TokenWithoutPrefix offenses in ApplicationSetting](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232460) | ![Open](https://img.shields.io/badge/Open-green) |
-|  | [Fix vue/v-on-event-hyphenation offenses in boards components](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232432) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Resolve Gitlab/TokenWithoutPrefix offenses in ApplicationSetting](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232460) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Fix/pages lowercase redirect loop](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232431) | ![Open](https://img.shields.io/badge/Open-green) |
 |  | [Standardize curl examples in doc/api/users.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232256) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Standardize curl examples in doc/api/pipelines.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232211) | ![Merged](https://img.shields.io/badge/Merged-purple) |
