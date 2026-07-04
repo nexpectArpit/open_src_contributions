@@ -10,7 +10,8 @@
         "checkstyle",
         "Open-Book-Genome-Project",
         "GetBindu",
-        "Kuadrant"
+        "Kuadrant",
+        "topoteretes"
     ],
     "gitlab_orgs": [
         "gitlab-org"
