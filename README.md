@@ -1,18 +1,11 @@
 # Open Source Contributions
 
-## topoteretes <!-- PRs: 1 -->
+## WikiEducationFoundation <!-- PRs: 23 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [cognee-integrations](https://github.com/topoteretes/cognee-integrations/pulls?q=author%3AnexpectArpit) | [Add local offline metrics command to Claude Code & Codex plugins](https://github.com/topoteretes/cognee-integrations/pull/205) | ![Open](https://img.shields.io/badge/Open-green) |
-
----
-
-## WikiEducationFoundation <!-- PRs: 22 -->
-
-| Repo | PR Title | Status |
-|------|----------|--------|
-| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Update outdated LiftWing namespace comment in Replica](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6914) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [ArticleViewer legend accessibility and scroll focus management](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6945) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [Update outdated LiftWing namespace comment in Replica](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6914) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Fix text overflow in Milestones sidebar and Timeline blocks](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6891) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [ Fix glitches while copying course from another server](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6890) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Enabled RuboCop rules UnfreezeString, CompactBlank, RedundantCurrentDirectory, SpaceInsideHashLiteralBraces](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6811) | ![Merged](https://img.shields.io/badge/Merged-purple) |
@@ -37,11 +30,19 @@
 
 ---
 
+## topoteretes <!-- PRs: 1 -->
+
+| Repo | PR Title | Status |
+|------|----------|--------|
+| [cognee-integrations](https://github.com/topoteretes/cognee-integrations/pulls?q=author%3AnexpectArpit) | [Add local offline metrics command to Claude Code & Codex plugins](https://github.com/topoteretes/cognee-integrations/pull/205) | ![Open](https://img.shields.io/badge/Open-green) |
+
+---
+
 ## Kuadrant <!-- PRs: 4 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [kuadrant-console-plugin](https://github.com/Kuadrant/kuadrant-console-plugin/pulls?q=author%3AnexpectArpit) | [unify build workflows and add quay.expires-after label to container images](https://github.com/Kuadrant/kuadrant-console-plugin/pull/525) | ![Open](https://img.shields.io/badge/Open-green) |
+| [kuadrant-console-plugin](https://github.com/Kuadrant/kuadrant-console-plugin/pulls?q=author%3AnexpectArpit) | [unify build workflows and add quay.expires-after label to container images](https://github.com/Kuadrant/kuadrant-console-plugin/pull/525) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [validate API key name uniqueness and length](https://github.com/Kuadrant/kuadrant-console-plugin/pull/481) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [resolve TLSPolicy issuer validation bypass and action button layout distortion](https://github.com/Kuadrant/kuadrant-console-plugin/pull/476) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [fix typos in README.md and CLAUDE.md](https://github.com/Kuadrant/kuadrant-console-plugin/pull/467) | ![Merged](https://img.shields.io/badge/Merged-purple) |
