@@ -101,7 +101,7 @@
 
 ---
 
-## GitLab <!-- PRs: 22 -->
+## GitLab <!-- PRs: 21 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
@@ -113,7 +113,6 @@
 |  | [Resolve RSpec/LeakyConstantDeclaration in various specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232511) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Resolve Gitlab/RSpec/AvoidCreateDefaultOrganization in Organization specs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232503) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Resolve GraphQL/ResolverMethodLength in StageType](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232495) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-|  | [Resolve GraphQL/ArgumentUniqueness in MergeRequestsResolver](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232491) | ![Open](https://img.shields.io/badge/Open-green) |
 |  | [Resolve Gitlab/TokenWithoutPrefix offenses in ApplicationSetting](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232460) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Standardize curl examples in doc/api/users.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232256) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Standardize curl examples in doc/api/pipelines.md](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/232211) | ![Merged](https://img.shields.io/badge/Merged-purple) |
