@@ -11,7 +11,8 @@
         "Open-Book-Genome-Project",
         "GetBindu",
         "Kuadrant",
-        "topoteretes"
+        "topoteretes",
+        "usecortex"
     ],
     "gitlab_orgs": [
         "gitlab-org"
