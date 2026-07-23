@@ -1,5 +1,14 @@
 # Open Source Contributions
 
+## usecortex <!-- PRs: 2 -->
+
+| Repo | PR Title | Status |
+|------|----------|--------|
+| [mintlify-docs](https://github.com/usecortex/mintlify-docs/pulls?q=author%3AnexpectArpit) | [[hackathon]: guide: Context Strategy - Memory vs Knowledge decision framework](https://github.com/usecortex/mintlify-docs/pull/202) | ![Open](https://img.shields.io/badge/Open-green) |
+|  | [[hackathon]: docs: Query Optimization & Parameter Tuning - from prototype to production](https://github.com/usecortex/mintlify-docs/pull/201) | ![Open](https://img.shields.io/badge/Open-green) |
+
+---
+
 ## WikiEducationFoundation <!-- PRs: 23 -->
 
 | Repo | PR Title | Status |
