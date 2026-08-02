@@ -58,13 +58,12 @@
 
 ---
 
-## PSMRI <!-- PRs: 4 -->
+## PSMRI <!-- PRs: 3 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [Helpline104-UI](https://github.com/PSMRI/Helpline104-UI/pulls?q=author%3AnexpectArpit) | [docs: align license metadata and platform port with AMRIT standards](https://github.com/PSMRI/Helpline104-UI/pull/65) | ![Open](https://img.shields.io/badge/Open-green) |
 | [MMU-API](https://github.com/PSMRI/MMU-API/pulls?q=author%3AnexpectArpit) | [update README and sync package version with pom](https://github.com/PSMRI/MMU-API/pull/169) | ![Open](https://img.shields.io/badge/Open-green) |
-| [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [implement standard Reactive Forms validation in DataSyncLoginComponent](https://github.com/PSMRI/MMU-UI/pull/350) | ![Open](https://img.shields.io/badge/Open-green) |
+| [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [implement standard Reactive Forms validation in DataSyncLoginComponent](https://github.com/PSMRI/MMU-UI/pull/350) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [fix port number and environment template filename in README](https://github.com/PSMRI/MMU-UI/pull/338) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 
 ---
