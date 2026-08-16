@@ -1,14 +1,5 @@
 # Open Source Contributions
 
-## usecortex <!-- PRs: 2 -->
-
-| Repo | PR Title | Status |
-|------|----------|--------|
-| [mintlify-docs](https://github.com/usecortex/mintlify-docs/pulls?q=author%3AnexpectArpit) | [[hackathon]: guide: Context Strategy - Memory vs Knowledge decision framework](https://github.com/usecortex/mintlify-docs/pull/202) | ![Open](https://img.shields.io/badge/Open-green) |
-|  | [[hackathon]: docs: Query Optimization & Parameter Tuning - from prototype to production](https://github.com/usecortex/mintlify-docs/pull/201) | ![Open](https://img.shields.io/badge/Open-green) |
-
----
-
 ## WikiEducationFoundation <!-- PRs: 23 -->
 
 | Repo | PR Title | Status |
@@ -70,7 +61,7 @@
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [MMU-API](https://github.com/PSMRI/MMU-API/pulls?q=author%3AnexpectArpit) | [update README and sync package version with pom](https://github.com/PSMRI/MMU-API/pull/169) | ![Open](https://img.shields.io/badge/Open-green) |
+| [MMU-API](https://github.com/PSMRI/MMU-API/pulls?q=author%3AnexpectArpit) | [update README and sync package version with pom](https://github.com/PSMRI/MMU-API/pull/169) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 | [MMU-UI](https://github.com/PSMRI/MMU-UI/pulls?q=author%3AnexpectArpit) | [implement standard Reactive Forms validation in DataSyncLoginComponent](https://github.com/PSMRI/MMU-UI/pull/350) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [fix port number and environment template filename in README](https://github.com/PSMRI/MMU-UI/pull/338) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 
