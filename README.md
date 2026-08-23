@@ -4,7 +4,7 @@
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [ArticleViewer legend accessibility and scroll focus management](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6945) | ![Open](https://img.shields.io/badge/Open-green) |
+| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [ArticleViewer legend accessibility and scroll focus management](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6945) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Update outdated LiftWing namespace comment in Replica](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6914) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Fix text overflow in Milestones sidebar and Timeline blocks](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6891) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [ Fix glitches while copying course from another server](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6890) | ![Merged](https://img.shields.io/badge/Merged-purple) |
@@ -27,14 +27,6 @@
 |  | [Redesign /usage page with improved layout and interactive features](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6660) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Fix tooltip icons mobile responsive](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6656) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Update Article Views documentation to reflect new calculation method](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6643) | ![Merged](https://img.shields.io/badge/Merged-purple) |
-
----
-
-## topoteretes <!-- PRs: 1 -->
-
-| Repo | PR Title | Status |
-|------|----------|--------|
-| [cognee-integrations](https://github.com/topoteretes/cognee-integrations/pulls?q=author%3AnexpectArpit) | [Add local offline metrics command to Claude Code & Codex plugins](https://github.com/topoteretes/cognee-integrations/pull/205) | ![Open](https://img.shields.io/badge/Open-green) |
 
 ---
 
