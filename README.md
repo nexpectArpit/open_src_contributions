@@ -1,10 +1,11 @@
 # Open Source Contributions
 
-## WikiEducationFoundation <!-- PRs: 23 -->
+## WikiEducationFoundation <!-- PRs: 24 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [ArticleViewer legend accessibility and scroll focus management](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6945) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Add dynamic links to connected Wikimedia Event Center pages](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/7010) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+|  | [ArticleViewer legend accessibility and scroll focus management](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6945) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Update outdated LiftWing namespace comment in Replica](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6914) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Fix text overflow in Milestones sidebar and Timeline blocks](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6891) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [ Fix glitches while copying course from another server](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6890) | ![Merged](https://img.shields.io/badge/Merged-purple) |
