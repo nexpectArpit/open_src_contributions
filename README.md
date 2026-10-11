@@ -102,7 +102,7 @@
 
 ---
 
-## GitLab <!-- PRs: 21 -->
+## GitLab <!-- PRs: 22 -->
 
 | Repo | PR Title | Status |
 |------|----------|--------|
@@ -127,5 +127,6 @@
 | [knowledge-graph](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/?sort=created_asc&state=merged&author_username=nexpectArpit) | [feat(orbit-local): scope orbit schema output by positional table names](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/1680) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [docs: add text-indexed properties table to query language reference](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/1664) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [docs: remove collect from aggregation functions table](https://gitlab.com/gitlab-org/orbit/knowledge-graph/-/merge_requests/1653) | ![Merged](https://img.shields.io/badge/Merged-purple) |
+| [lomiri](https://gitlab.com/ubports/development/core/lomiri/-/merge_requests/?sort=created_asc&state=merged&author_username=nexpectArpit) | [Shell: don't reserve left margin for launcher when it is not visible](https://gitlab.com/ubports/development/core/lomiri/-/merge_requests/347) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 
 ---
