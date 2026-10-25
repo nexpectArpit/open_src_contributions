@@ -4,7 +4,7 @@
 
 | Repo | PR Title | Status |
 |------|----------|--------|
-| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Add screen reader edit boundary announcements and hide highlight token spans](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/7022) | ![Open](https://img.shields.io/badge/Open-green) |
+| [WikiEduDashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard/pulls?q=author%3AnexpectArpit) | [Add screen reader edit boundary announcements and hide highlight token spans](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/7022) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Add dynamic links to connected Wikimedia Event Center pages](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/7010) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [ArticleViewer legend accessibility and scroll focus management](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6945) | ![Merged](https://img.shields.io/badge/Merged-purple) |
 |  | [Update outdated LiftWing namespace comment in Replica](https://github.com/WikiEducationFoundation/WikiEduDashboard/pull/6914) | ![Merged](https://img.shields.io/badge/Merged-purple) |
